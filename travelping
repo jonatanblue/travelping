@@ -1,0 +1,2 @@
+#!/bin/bash
+ping -i5 8.8.8.8 | grep --line-buffered -o -E -e "time=.*$" -e "timeout"
