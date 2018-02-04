@@ -1,6 +1,6 @@
 # Travelping
 
-On a train, over 4G, connection drops in and out, I want to know:
+When I'm on a train, over 4G, and the connection drops in and out, I want to know:
 
 **How bad is my connection?**
 
